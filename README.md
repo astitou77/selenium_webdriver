@@ -2,8 +2,10 @@
 ```bash
 ## Install Python
 > https://www.python.org/
-## Install .NET for C#
+## Install .NET ASP.NET Runtime for C#
 > https://dotnet.microsoft.com/en-us/download
+## MS Dynamics CRM
+> https://
 ```
 
 # 1. webdriver
